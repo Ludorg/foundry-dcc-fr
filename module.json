@@ -3,9 +3,11 @@
     "id": "dcc-fr",
     "title": "DCC Dungeon Crawl Classics game system french Translation",
     "description": "Traduction du système de jeu DCC pour Foundry en Français",
-    "version": "0.1.1",
-    "minimumCoreVersion" : "10",
-    "compatibleCoreVersion":"13",
+    "version": "0.2.0",
+    "compatibility": {
+      "minimum": "10",
+      "verified": "13.346"
+  },
     "author": "Mr.Fred",
     "systems": ["dcc"],   
     "languages": [{

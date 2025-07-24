@@ -12,9 +12,12 @@ Ce module traduit le système de jeu DCC pour foundry. Il ne traduit pas les com
 - Activer dans les options de foundry la langue français
 
 ## Crédits
-Contributeurs : Mr.Fred (@theksi) et Segoku (@segoku1)
+Contributeurs : Mr.Fred (@theksi), Segoku (@segoku1), @Ludorg
 
 ## Changelogs
+### 0.2.0
+- Modification du module.json pour inclure de V10 à V13
+
 ### 0.1.1
 - Validée pour la version 0.34.1 du système de jeu
 ### 0.0.9

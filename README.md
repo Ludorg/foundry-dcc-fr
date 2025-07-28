@@ -15,6 +15,13 @@ Ce module traduit le système de jeu DCC pour foundry. Il ne traduit pas les com
 Contributeurs : Mr.Fred (@theksi), Segoku (@segoku1), @Ludorg
 
 ## Changelogs
+### 0.2.1 (en cours)
+- Mise à jour pour la version 0.60.11 du système de jeu DCC
+  - 688 traductions au total dans le fichier en.json
+  - 756 traductions au total dans le fichier fr.json
+    - 359 sont à vérifier (clés supprimées a priori, présentes dans le fichier fr.json mais pas dans le fichier en.json)
+    - 291 sont à traduire ou à adapter (clés absentes du fichier fr.json)
+
 ### 0.2.0
 - Modification du module.json pour inclure de V10 à V13
 

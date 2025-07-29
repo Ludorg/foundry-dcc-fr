@@ -1,21 +1,24 @@
-
 {
     "id": "dcc-fr",
     "title": "DCC Dungeon Crawl Classics game system french Translation",
     "description": "Traduction du système de jeu DCC pour Foundry en Français",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "compatibility": {
-      "minimum": "10",
-      "verified": "13.346"
-  },
-    "author": "Mr.Fred",
-    "systems": ["dcc"],   
-    "languages": [{
-      "lang": "fr",
-      "name": "Français",
-      "path": "fr.json"
-    }],
-    "url": "https://github.com/theksi/foundry-dcc-fr",
-    "manifest": "https://github.com/theksi/foundry-dcc-fr/raw/main/module.json",
-    "download": "https://github.com/theksi/foundry-dcc-fr/archive/main.zip"
-  }
+        "minimum": "13",
+        "verified": "13.346"
+    },
+    "author": "Ludorg, Mr.Fred, Segoku",
+    "systems": [
+        "dcc"
+    ],
+    "languages": [
+        {
+            "lang": "fr",
+            "name": "Français",
+            "path": "fr.json"
+        }
+    ],
+    "url": "https://github.com/Ludorg/foundry-dcc-fr/tree/feature/update_dcc_0.60",
+    "manifest": "https://raw.githubusercontent.com/Ludorg/foundry-dcc-fr/refs/heads/feature/update_dcc_0.60/module.json",
+    "download": "https://github.com/Ludorg/foundry-dcc-fr/archive/feature/update_dcc_0.60.zip"
+}
